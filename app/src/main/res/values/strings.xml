@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenP2</string>
+
+    <string name="btn_main">Vistar</string>
+
+    <string name="btn_detalles">Detalles</string>
+    <string name="btn_globos">Globos</string>
+    <string name="bnt_peluches">Peluches</string>
+    <string name="btn_regalos">Regalos</string>
+    <string name="btn_tazas">Tazas</string>
+</resources>
